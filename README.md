@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahpn
 - 👀 I’m interested in software engineering, development, and more
-- 🌱 I’m currently learning C++ and python
+- 🌱 I’m currently learning C++, Java, and python
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me 
       via email: shahpn02@gmail.com
