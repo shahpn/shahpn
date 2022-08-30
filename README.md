@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahpn
+- 👋 Hi, I’m Parth Shah!
 - 👀 I’m interested in software engineering, development, Robotics, and Artificial Intelligence!
 - 🌱 I have experience working with C++, Java, and python
 - 💞️ I’m looking to collaborate on any projects
