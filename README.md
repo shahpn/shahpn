@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parth Shah!
-- 👀 I’m interested in software engineering, development, Robotics, and Artificial Intelligence!
-- 🌱 I have experience working with C++, Java, and python
+- 👀 I’m interested in Robotics, Software Engineering/Development, and Artificial Intelligence!
+- 🌱 I have experience working with C++, Java, Python, HTML/CSS
 - 💞️ I’m looking to collaborate on any projects
 - 📫 email: shahpn02@gmail.com
 
