@@ -1,11 +1,24 @@
-- 👋 Hi, I’m Parth Shah!
-- 👀 I’m interested in Robotics, Software Engineering/Development, and Artificial Intelligence!
-      - I'd like to specialize in Robotics and AI
-- 🌱 I have experience working with C++, Java, Python, HTML/CSS, JavaScript, and more!
-- 💞️ I’m looking to collaborate on any projects
-- 📫 email: shahpn02@gmail.com
+# 👋 Hey, I’m Parth Shah
 
-<!---
-shahpn/shahpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data engineer and aspiring AI ethicist working at the intersection of technology, healthcare, and policy. I’m passionate about building responsible systems—whether that’s through robust pipelines, ethical AI design, or scalable software tools.
+
+## 🔍 Interests
+- Artificial Intelligence & AI Ethics  
+- Data Engineering & Automation  
+- Robotics (especially in healthcare applications)
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, Java, C++, JavaScript  
+- **Tools:** Azure DevOps, Power BI, Git, Bash  
+- **Domains:** Data pipelines, LLMs, vulnerability tracking, analytics
+
+## 🤝 Looking to Collaborate On
+- Projects that combine AI and social good  
+- Tools that improve developer workflows or public data transparency  
+- Anything in the AI x Healthcare or AI x Policy space
+
+## 📬 Reach Me
+- **Email:** shahpn02@gmail.com  
+---
+
+Let’s build something that makes a difference.
